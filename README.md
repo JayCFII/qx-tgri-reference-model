@@ -1,7 +1,7 @@
 # qx-tgri-reference-model
 Reference architecture and trust framework for qX-TGRI™ — a Truth Gap Readiness Index system designed to evaluate evidence integrity, mission assurance, and autonomous decision trustworthiness.
 # qX-TGRI™ Reference Model
-
+![qX-TGRI Reference Architecture](TGRI%20ARCHITECTURE%20.PNG)
 ## Overview
 
 qX-TGRI™ (Truth Gap Readiness Index) is a mission assurance and evidence integrity framework designed to evaluate the trustworthiness, completeness, and operational readiness of autonomous system outputs.
