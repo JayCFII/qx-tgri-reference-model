@@ -56,3 +56,35 @@ All rights reserved unless otherwise expressly licensed.
 Certain concepts, architectures, workflows, and trust methodologies may be subject to pending patent protection, continuation filings, trade secret protection, or other intellectual property rights held by BEYONDx Advisors, LLC and/or associated inventors.
 
 No license is granted by publication of this repository except where expressly stated.
+
+## Sample Mission Receipt
+
+```json
+{
+  "mission_receipt_id": "QXTGRI-MR-2026-000184",
+  "mission_id": "MISSION-ALPHA-7821",
+  "timestamp_utc": "2026-05-25T20:14:33Z",
+  "system": {
+    "platform": "UAV Autonomous Inspection System",
+    "vehicle_id": "UAV-X10-442",
+    "operator": "BEYONDx Advisors LLC"
+  },
+  "mission_summary": {
+    "mission_type": "Infrastructure Inspection",
+    "location": "Critical Infrastructure Zone 4",
+    "duration_minutes": 42,
+    "autonomy_level": "Supervised Autonomy"
+  },
+  "readiness_scoring": {
+    "integrity_score": 93,
+    "assurance_score": 89,
+    "operational_readiness_index": 92,
+    "readiness_status": "MISSION READY"
+  },
+  "trust_outputs": {
+    "machine_verifiable": true,
+    "audit_ready": true,
+    "human_review_required": false
+  }
+}
+```
