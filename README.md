@@ -42,6 +42,13 @@ Reference architecture and conceptual framework repository.
 
 Additional implementation details, APIs, scoring models, and integration pathways may be developed in future releases.
 
+## Repository Structure
+
+- `/images` — architecture diagrams and system visuals
+- `/docs` — conceptual and technical documentation
+- `/examples` — sample trust artifacts and mission receipts
+- `/schemas` — interoperability and future data structures
+
 ## Intellectual Property Notice
 
 All rights reserved unless otherwise expressly licensed.
