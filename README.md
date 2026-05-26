@@ -55,7 +55,7 @@ All rights reserved unless otherwise expressly licensed.
 
 Certain concepts, architectures, workflows, and trust methodologies may be subject to pending patent protection, continuation filings, trade secret protection, or other intellectual property rights held by BEYONDx Advisors, LLC and/or associated inventors.
 
-No license is granted by publication of this repository except where expressly stated.
+No patent license, trademark license, copyright license, implementation license, model-training license, or standards-adoption license is granted by this repository. Public materials are provided solely for reference-architecture review and controlled partner discussion.
 
 ## Sample Mission Receipt
 
