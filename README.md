@@ -92,4 +92,6 @@ No license is granted by publication of this repository except where expressly s
 
 The following dashboard mockup illustrates how qX-TGRI™ outputs may be presented for operational review, including mission readiness scoring, gate recommendation, evidence summary, claims coverage, route and coverage overview, thermal and environmental analysis, platform status, and next-step decision support.
 
+Note: This dashboard is a conceptual mockup using synthetic/demo data for reference architecture purposes only. Third-party product names, if shown, are illustrative and do not imply endorsement, partnership, certification, or production integration.
+
 ![qX-TGRI Mission Assurance Dashboard](qx-tgri-mission-assurance-dashboard-v1-9.png)
